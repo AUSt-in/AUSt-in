@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @AUSt-in - Austin
-- 👀 I’m interested in in Machine Learning, Blockchain and Cyber Security
-- 🌱 I’m currently learning Machine Learning and Cyber Security
-- 💞️ I’m looking to collaborate on Autonomous robots
-- 📫 You can either reach me via linkedin - Austin Pereira or Instagram
+- 👋 Hello I am Austin Pereira
+- 👀 I’m interested in in Machine Learning, Blockchain and Cyber Security. Maybe fascinated with latest tech as it blows my head
+- 🌱 I’m currently practicing Leetcode question and working on UX Design
+- 💞️ I’m looking to collaborate on building web 3.0 application
+- 📫 You can either reach me via linkedin - Austin Pereira as thats the best place to jam up rest all places are time pass
 
-<!---
-AUSt-in/AUSt-in is a ✨ special ✨ repository because it appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+

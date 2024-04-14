@@ -1,7 +1,1 @@
-- 👋 Hello I am Austin Pereira
-- 👀 I’m interested in in Machine Learning, Blockchain and Cyber Security. Maybe fascinated with latest tech as it blows my head
-- 🌱 I’m currently practicing Leetcode question and working on UX Design
-- 💞️ I’m looking to collaborate on building web 3.0 application
-- 📫 You can either reach me via linkedin - Austin Pereira as thats the best place to jam up rest all places are time pass
-
-
+![merlin_212276709_3104aef5-3dc4-4288-bb44-9e5624db0b37-superJumbo-landscape-c8d20c0be24b743f457260a1346eb652-uz4ikceatsy9](https://github.com/AUSt-in/AUSt-in/assets/79310192/d456ae4a-b4a6-4101-9c58-23a5fc43e324)
